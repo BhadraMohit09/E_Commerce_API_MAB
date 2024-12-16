@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewWebAPI_MAB", "NewWebAPI_MAB\NewWebAPI_MAB.csproj", "{E99C58AC-6089-4CFE-8625-9037AC6AA06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E99C58AC-6089-4CFE-8625-9037AC6AA06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99C58AC-6089-4CFE-8625-9037AC6AA06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99C58AC-6089-4CFE-8625-9037AC6AA06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99C58AC-6089-4CFE-8625-9037AC6AA06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7304F308-4376-40D6-944F-A05E1AD0585B}
+	EndGlobalSection
+EndGlobal
