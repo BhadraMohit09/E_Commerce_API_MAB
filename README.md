@@ -9,7 +9,7 @@
 - **CRUD Operations**: Full support for Create, Read, Update, and Delete operations.
 
 ## **Installation**
-To set up this project locally, follow these steps:
+To set up this project locally, follow these steps::
 
 1. **Clone the repository**:
    ```bash
