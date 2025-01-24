@@ -1,6 +1,6 @@
 ## E-Commerce Web API@MAB 🛒
 
-## **Features**
+## **Features**🪽
 - **User Management**: Register, login, and manage user profiles.
 - **Product Listings**: Add, update, delete, and view product details.
 - **Order Processing**: Create, read, update, and delete orders.
