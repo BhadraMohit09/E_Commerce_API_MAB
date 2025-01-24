@@ -1,4 +1,4 @@
-## E-Commerce Web API@MAB
+## E-Commerce Web API@MAB 🛒
 
 ## **Features**
 - **User Management**: Register, login, and manage user profiles.
