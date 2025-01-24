@@ -8,7 +8,7 @@
 - **Relationships**: Link customers with orders and order details.
 - **CRUD Operations**: Full support for Create, Read, Update, and Delete operations.
 
-## **Installation**
+## **Installation**🌾
 To set up this project locally, follow these steps::
 
 1. **Clone the repository**:
