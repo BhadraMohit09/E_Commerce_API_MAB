@@ -2,7 +2,7 @@
 
 An efficient and scalable **E-Commerce Web API** built with **.NET & React** to handle user management, product listings, orders, and billing operations.  
 
-## **Features** 🪽  
+#### **Features** 🪽  
 
  🔹 **User Management**: Register, login, update profiles, and manage user accounts.  
  🔹 **Product Listings**: Add, update, delete, and view product details.  
