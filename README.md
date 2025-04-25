@@ -14,7 +14,7 @@ An efficient and scalable **E-Commerce Web API** built with **.NET & React** to 
  🔹 **CRUD Operations**: Full support for Create, Read, Update, and Delete operations.  
  🔹 **API Documentation**: Swagger integration for interactive API testing.  
 
-## **Tech Stack** 🛠  
+#### **Tech Stack** 🛠  
 
 - **Backend**: .NET 7, ASP.NET Core Web API  
 - **Frontend**: ReactJS, Bootstrap  
